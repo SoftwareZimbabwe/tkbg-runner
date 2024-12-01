@@ -1,6 +1,6 @@
 # TK BG Custom Background Job Runner
 
-![Alt text](resources\sample_images\2.png?raw=true "Demo2")
+![Alt text](resources/sample_images/2.png?raw=true "Demo2")
 
 ## Features
 - **Background execution** of PHP classes and methods.
@@ -90,4 +90,4 @@ This will trigger an error as `App\TkbgJobs\UnknownJob` doesn't exist.
 You can monitor the job statuses and logs via the web-based dashboard. It shows all the job executions, their status, retries, and error messages.
 
 
-![Alt text](resources\sample_images\1.png?raw=true "Demo")
+![Alt text](resources/sample_images/1.png?raw=true "Demo")
